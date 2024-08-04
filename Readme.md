@@ -1,1 +1,1 @@
-author: Harpriya Guru
+author: Harpriya
